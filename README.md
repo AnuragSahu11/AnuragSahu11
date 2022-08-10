@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+![messagiftw](https://user-images.githubusercontent.com/54500608/183977536-87d620ae-acea-4456-a1dc-4a7def89820b.gif)
 
-
-![messagif](https://user-images.githubusercontent.com/54500608/183976953-c6f16595-25f4-4938-8cca-556c0f8f6476.gif)
