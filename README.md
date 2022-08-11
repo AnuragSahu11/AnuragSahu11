@@ -12,11 +12,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-![ezgif-2-b2d7e5c6ee330](https://user-images.githubusercontent.com/54500608/184074013-a7050452-349f-472e-8a77-d0bb95d97065.gif)
+![ezgif-2-](https://user-images.githubusercontent.com/54500608/184078587-10328f90-e44f-43ab-8146-7d619564cbdd.gif)
 
-### I'am Anurag Sahu, a front-end web developer.
+<h1 align="center">
+Hey I'm Anurag
+</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragSahu11&bg_color=45,1fe66c,0fabe4&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragSahu11&bg_color=45,1fe66c,0fabe4&title_color=0d1017&text_color=0d1017)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
