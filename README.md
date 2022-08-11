@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+![ezgif-2-b2d7e5c6ee330](https://user-images.githubusercontent.com/54500608/184074013-a7050452-349f-472e-8a77-d0bb95d97065.gif)
 
 ![ezgif-2-](https://user-images.githubusercontent.com/54500608/184073175-c5de5ee2-d3c9-4fab-8cd8-ccb3fc683d6b.gif)
 
