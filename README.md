@@ -18,8 +18,5 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragSahu11&bg_color=45,1fe66c,0fabe4&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-Before looking at my repos take a look at this Joke 
-
-![messagiftw](https://user-images.githubusercontent.com/54500608/183977536-87d620ae-acea-4456-a1dc-4a7def89820b.gif)
 
 
