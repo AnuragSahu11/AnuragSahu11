@@ -18,8 +18,17 @@ Here are some ideas to get you started:
 Hey I'm Anurag
 </h1>
 
+<div style="width:min-content;
+margin-left:auto;
+margin-right:auto;
+background-color:white;">
+<img style="width:fit-content;" src="https://github-readme-stats.vercel.app/api?username=AnuragSahu11&theme=merko">
+</img>
+<img style="width:fit-content;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko">
+</img>
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragSahu11&bg_color=45,1fe66c,0fabe4&title_color=0d1017&text_color=0d1017)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
