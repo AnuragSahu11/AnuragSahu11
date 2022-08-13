@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">
 Hey👋 I'm Anurag Sahu
 </h1>
+<h3 align="center">Languages & tools 🛠️</h3>
 <p align="center">
 <img alt="React" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img alt="React" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
@@ -29,6 +30,7 @@ Hey👋 I'm Anurag Sahu
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="" alt="J" height="40">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+<h3 align="center">Stats 📈</h3>
 <div align="center">
 <img style="width:fit-content;" src="https://github-readme-stats.vercel.app/api?username=AnuragSahu11&theme=merko">
 <img style="width:fit-content;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragSahu11&layout=compact&theme=merko">
